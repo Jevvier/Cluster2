@@ -1,0 +1,15 @@
+D:\latukk\latoop1\latoop1\bin\Debug\net6.0\latoop1.exe
+D:\latukk\latoop1\latoop1\bin\Debug\net6.0\latoop1.deps.json
+D:\latukk\latoop1\latoop1\bin\Debug\net6.0\latoop1.runtimeconfig.json
+D:\latukk\latoop1\latoop1\bin\Debug\net6.0\latoop1.dll
+D:\latukk\latoop1\latoop1\bin\Debug\net6.0\latoop1.pdb
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.csproj.AssemblyReference.cache
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.GeneratedMSBuildEditorConfig.editorconfig
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.AssemblyInfoInputs.cache
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.AssemblyInfo.cs
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.csproj.CoreCompileInputs.cache
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.dll
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\refint\latoop1.dll
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.pdb
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\latoop1.genruntimeconfig.cache
+D:\latukk\latoop1\latoop1\obj\Debug\net6.0\ref\latoop1.dll
